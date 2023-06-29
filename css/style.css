@@ -4069,7 +4069,7 @@ p {
 }
 
 a {
-  color: #1386eb;
+  color: #0068D3;
   text-decoration: underline;
 }
 
@@ -4160,7 +4160,7 @@ blockquote {
 }
 
 .nav-menu-button.w--open {
-  background-color: #1386eb;
+  background-color: #0068D3;
 }
 
 .nav-menu {
@@ -4220,7 +4220,7 @@ blockquote {
   align-items: center;
   flex: 0 0 auto;
   border-radius: 0px;
-  background-color: #1386eb;
+  background-color: #0068D3;
   transition: color 200ms ease, background-color 200ms ease;
   color: #fff;
   font-size: 0.8em;
@@ -4281,7 +4281,7 @@ blockquote {
   position: relative;
   z-index: 16;
   margin-bottom: 0.625em;
-  color: #1386eb;
+  color: #0068D3;
   font-size: 0.8em;
   font-weight: 700;
   letter-spacing: 0.25ch;
@@ -4369,7 +4369,7 @@ blockquote {
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
-  background-color: #1386eb;
+  background-color: #0068D3;
   font-size: 1em;
 }
 
@@ -4566,7 +4566,7 @@ blockquote {
   height: 8em;
   justify-content: center;
   align-items: center;
-  background-color: #1386eb;
+  background-color: #0068D3;
   transition: background-color 200ms ease;
 }
 
@@ -4773,7 +4773,7 @@ blockquote {
 }
 
 .cart-quantity:focus {
-  border-color: #1386eb;
+  border-color: #0068D3;
 }
 
 .cart-error-state {
@@ -4904,7 +4904,7 @@ blockquote {
   height: 1px;
   margin-top: 4em;
   margin-bottom: 4em;
-  background-color: #1386eb;
+  background-color: #0068D3;
 }
 
 .section-h-line-color-b.margin-top-none {
@@ -5010,17 +5010,17 @@ blockquote {
   height: 1em;
   border-style: solid;
   border-width: 1px;
-  border-color: #1386eb;
+  border-color: #0068D3;
   border-radius: 100%;
-  background-color: #1386eb;
+  background-color: #0068D3;
 }
 
 .rating-bulet.half-fill {
   background-color: transparent;
   background-image: linear-gradient(
     90deg,
-    #1386eb,
-    #1386eb 50%,
+    #0068D3,
+    #0068D3 50%,
     transparent 0,
     transparent
   );
@@ -5608,7 +5608,7 @@ blockquote {
 }
 
 .newsletter-text-field:focus {
-  border-color: #1386eb;
+  border-color: #0068D3;
 }
 
 .newsletter-text-field::-moz-placeholder {
@@ -5687,7 +5687,7 @@ blockquote {
   margin-bottom: 10em;
   justify-content: center;
   align-items: center;
-  background-color: #1386eb;
+  background-color: #0068D3;
   transition: background-color 200ms ease;
   font-size: 1em;
 }
@@ -5706,7 +5706,7 @@ blockquote {
   margin-left: -2em;
   justify-content: center;
   align-items: center;
-  background-color: #1386eb;
+  background-color: #0068D3;
   transition: background-color 200ms ease;
   font-size: 1em;
 }
@@ -5730,7 +5730,7 @@ blockquote {
 .gallery-lightbox-thumb-01 {
   width: 100%;
   height: 100%;
-  border-right: 0.25em solid #1386eb;
+  border-right: 0.25em solid #0068D3;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -5780,8 +5780,8 @@ blockquote {
 .gallery-lightbox-thumb-02 {
   width: 100%;
   height: 100%;
-  border-right: 0.75em solid #1386eb;
-  border-left: 0.25em solid #1386eb;
+  border-right: 0.75em solid #0068D3;
+  border-left: 0.25em solid #0068D3;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -5789,8 +5789,8 @@ blockquote {
 .gallery-lightbox-thumb-03 {
   width: 100%;
   height: 100%;
-  border-right: 0.5em solid #1386eb;
-  border-left: 0.5em solid #1386eb;
+  border-right: 0.5em solid #0068D3;
+  border-left: 0.5em solid #0068D3;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -5798,9 +5798,9 @@ blockquote {
 .gallery-lightbox-thumb-04 {
   width: 100%;
   height: 100%;
-  border-right: 0.25em solid #1386eb;
-  border-left: 0.75em solid #1386eb;
-  background-color: #1386eb;
+  border-right: 0.25em solid #0068D3;
+  border-left: 0.75em solid #0068D3;
+  background-color: #0068D3;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -5808,7 +5808,7 @@ blockquote {
 .gallery-lightbox-thumb-06 {
   width: 100%;
   height: 100%;
-  border-left: 0.25em solid #1386eb;
+  border-left: 0.25em solid #0068D3;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -5916,7 +5916,7 @@ blockquote {
 
 .password-text-field:focus {
   border-width: 1px;
-  border-color: #1386eb;
+  border-color: #0068D3;
 }
 
 .password-text-field::-moz-placeholder {
@@ -6078,12 +6078,12 @@ blockquote {
 }
 
 .checkout-text-field:focus {
-  border-color: #1386eb;
+  border-color: #0068D3;
   background-color: #fff;
 }
 
 .checkout-text-field.-wfp-focus {
-  border-color: #1386eb;
+  border-color: #0068D3;
   background-color: #fff;
 }
 
@@ -6360,7 +6360,7 @@ blockquote {
     justify-content: space-between;
     align-items: center;
     flex: 0 0 auto;
-    background-color: #1386eb;
+    background-color: #0068D3;
     transition: background-color 200ms ease;
     font-size: 0.8em;
   }
@@ -6370,7 +6370,7 @@ blockquote {
   }
 
   .nav-menu-button.w--open {
-    background-color: #1386eb;
+    background-color: #0068D3;
   }
 
   .nav-menu {
