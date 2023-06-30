@@ -4118,7 +4118,6 @@ blockquote {
   display: flex;
   width: 100%;
   max-width: 90em;
-  padding: 2em;
   justify-content: space-between;
   align-items: center;
   grid-auto-columns: 1fr;
